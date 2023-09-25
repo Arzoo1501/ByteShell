@@ -19,19 +19,19 @@ Byteshell offers the following features:
 
 To use Byteshell, follow these steps:
 
-1. Clone the repository to your local machine using the following command:
+1. Clone the repository to your local machine using the following command
 
 ```bash
 https://github.com/Arzoo1501/ByteShell
 ```
 
-2. Compile the main function in linux based environment or wsl using the following command:
+2. Compile the main function in linux based environment or wsl using the following command
 
 ```bash
 gcc -o shell main.c
 ```
 
-3. Run the file using the following command:
+3. Run the file using the following command
 
 ```bash
 ./shell.out
