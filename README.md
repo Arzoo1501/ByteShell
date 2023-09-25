@@ -1,4 +1,4 @@
-# Byteshell-ACM-Project
+# Byteshell
 
 This is a shell program written in C that provides a command-line interface with various built-in functions. It offers a range of features such as aliases, directory navigation, file system manipulation, and command execution. This repository contains the source code for Byteshell along with a comprehensive readme to help you understand its functionality and how to use it.
 
